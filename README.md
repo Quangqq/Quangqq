@@ -1,4 +1,3 @@
-<?php
 
 sleep(1);
 $banner = "
