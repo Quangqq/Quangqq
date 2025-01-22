@@ -1,10 +1,10 @@
-# Profile
+# 💫 Profile
 - [<img src="https://sharegiare.xyz/images/facebook.gif" alt="Facebook" width="30">](https://www.facebook.com/share/161XVKM6Ng/ "Facebook")  
 - [<img src="https://sharegiare.xyz/images/tiktok.gif" alt="TikTok" width="30">](https://www.tiktok.com/@quangapine "TikTok")  
 - [<img src="https://sharegiare.xyz/images/telegram.gif" alt="Telegram" width="30">](https://t.me/quangnqtoolcode "Telegram")  
 - [<img src="https://sharegiare.xyz/images/ytb.gif" alt="YouTube" width="30">](https://youtube.com/@quangapicom?si=Utn50Vuv82dNi8cU "YouTube")
 
-## TECH STACK
+## 💻 TECH STACK
 - <img src="https://camo.githubusercontent.com/3c49e31728bcaae1bf324071195b96048cdf7195f24c5dcc30f58e4b9c4f854c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="DICHVUVN.SHOP" width="100">
 - ![Image 1](https://camo.githubusercontent.com/4cf7ce73029427615faf208d47dc4e3924b7c88ec71e4b560f2590862ed0799e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 - ![Image 2](https://camo.githubusercontent.com/e6c7c9269729755f3fe8f8a5511c5440e59ae83d40ba74ca244188366fb98208/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d706c6173746963266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465)
@@ -18,7 +18,7 @@
 
 ![Dichvuvn.shop](https://i.imgur.com/hd3CRcO.jpeg "DICHVUVN.SHOP")
 
-## 💻 USED TO BE A MEMBER DEVELOPING TOOLS
+## ⚡ USED TO BE A MEMBER DEVELOPING TOOLS
 DRAGONX
 - [<img src="https://i.imgur.com/uCJfPz2.jpeg" alt="Dragonx" width="80">](https://vuhoangpro.site "Dragonx")
 
