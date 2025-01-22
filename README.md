@@ -30,4 +30,4 @@ ICE TOOL
 
 ## 💰 DONATE
 YOU CAN HELP ME BY DONATING
-- [<img src="https://i.imgur.com/UIeI2Bl.png" alt="ICE" width="80">](https://quangapi.com/donate/ "ICE")
+- [<img src="https://i.imgur.com/UIeI2Bl.png" alt="Click Me" width="80">](https://quangapi.com/donate/ "Click Me")
