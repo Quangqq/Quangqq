@@ -1,7 +1,7 @@
 # Profile
 - [![Facebook](https://subgiare.vn/jampack/dist/img/svg/facebook.svg)](https://www.facebook.com/share/161XVKM6Ng/ "Facebook")  
 - [![TikTok](https://subgiare.vn/jampack/dist/img/svg/tiktok.svg?123)](https://www.tiktok.com/@quangapine "TikTok")  
-- [![Telegram](https://i.imgur.com/5z8jHQU.png)](https://t.me/quangnqtoolcode "Telegram")  
+- [![Telegram](https://sharegiare.xyz/images/telegram.gif)](https://t.me/quangnqtoolcode "Telegram")  
 - [![YouTube](https://subgiare.vn/jampack/dist/img/svg/youtube.svg)]([https://www.youtube.com/yourchannel](https://youtube.com/@quangapicom?si=Utn50Vuv82dNi8cU) "YouTube")
 
 ## SERVICE WEBSITE 
