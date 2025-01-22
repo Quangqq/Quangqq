@@ -10,5 +10,8 @@
 ![Dichvuvn.shop](https://i.imgur.com/hd3CRcO.jpeg "DICHVUVN.SHOP")
 
 ## USED TO BE A MEMBER DEVELOPING TOOLS
-Dragonx
+DRAGONX
 - [<img src="https://i.imgur.com/uCJfPz2.jpeg" alt="Dragonx" width="100">](https://vuhoangpro.site "Dragonx")
+
+NQTOOL
+- [<img src="https://i.imgur.com/SFJP42u.jpeg" alt="NQTOOL" width="100">](https://nqtool.net "NQTOOL")
