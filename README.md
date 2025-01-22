@@ -11,7 +11,10 @@
 
 ## USED TO BE A MEMBER DEVELOPING TOOLS
 DRAGONX
-- [<img src="https://i.imgur.com/uCJfPz2.jpeg" alt="Dragonx" width="100">](https://vuhoangpro.site "Dragonx")
+- [<img src="https://i.imgur.com/uCJfPz2.jpeg" alt="Dragonx" width="80">](https://vuhoangpro.site "Dragonx")
 
 NQTOOL
-- [<img src="https://i.imgur.com/SFJP42u.jpeg" alt="NQTOOL" width="100">](https://nqtool.net "NQTOOL")
+- [<img src="https://i.imgur.com/SFJP42u.jpeg" alt="NQTOOL" width="80">](https://nqtool.net "NQTOOL")
+
+ICE TOOL
+- [<img src="https://i.imgur.com/SvJDqCB.jpeg" alt="ICE" width="80">](https://vuhoangpro.site "ICE")
