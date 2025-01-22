@@ -5,6 +5,6 @@
 - [<img src="https://sharegiare.xyz/images/ytb.gif" alt="YouTube" width="30">](https://youtube.com/@quangapicom?si=Utn50Vuv82dNi8cU "YouTube")
 
 ## SERVICE WEBSITE
-- [<img src="https://i.imgur.com/9wo3Loc.png" alt="DICHVUVN.SHOP" width="30">](https://dichvuvn.shop "DICHVUVN.SHOP")
+- [<img src="https://i.imgur.com/9wo3Loc.png" alt="DICHVUVN.SHOP" width="100">](https://dichvuvn.shop "DICHVUVN.SHOP")
 
 ![Dichvuvn.shop](https://i.imgur.com/hd3CRcO.jpeg "DICHVUVN.SHOP")
