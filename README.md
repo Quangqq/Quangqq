@@ -34,3 +34,5 @@ YOU CAN HELP ME BY DONATING
 
 ## 📊 GitHub Stats
 ![Quangqq](https://github-readme-stats.vercel.app/api?username=Quangqq&show_icons=true&theme=tokyonight)
+## 📚 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quangqq&layout=compact&theme=tokyonight)
