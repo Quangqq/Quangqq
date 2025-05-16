@@ -4,10 +4,10 @@
 
 ---
 # 💫 Profile
-- [<img src="https://sharegiare.xyz/images/facebook.gif" alt="Facebook" width="30">](https://www.facebook.com/share/161XVKM6Ng/ "Facebook")
-- [<img src="https://sharegiare.xyz/images/tiktok.gif" alt="TikTok" width="30">](https://www.tiktok.com/@quangapine "TikTok")  
-- [<img src="https://sharegiare.xyz/images/telegram.gif" alt="Telegram" width="30">](https://t.me/quangnqtoolcode "Telegram")  
-- [<img src="https://sharegiare.xyz/images/ytb.gif" alt="YouTube" width="30">](https://youtube.com/@quangapicom?si=Utn50Vuv82dNi8cU "YouTube")
+[<img src="https://sharegiare.xyz/images/facebook.gif" alt="Facebook" width="30">](https://www.facebook.com/share/161XVKM6Ng/) **Pham Huỳnh Quang** &nbsp;&nbsp;&nbsp;
+[<img src="https://sharegiare.xyz/images/tiktok.gif" alt="TikTok" width="30">](https://www.tiktok.com/@quangapine) **Quang Api** &nbsp;&nbsp;&nbsp;
+[<img src="https://sharegiare.xyz/images/telegram.gif" alt="Telegram" width="30">](https://t.me/quangapi) **Quangapi** &nbsp;&nbsp;&nbsp;
+[<img src="https://sharegiare.xyz/images/ytb.gif" alt="YouTube" width="30">](https://youtube.com/@quangapicom?si=Utn50Vuv82dNi8cU) **Quang Api**
 
 ## 💻 TECH STACK
 - <img src="https://camo.githubusercontent.com/3c49e31728bcaae1bf324071195b96048cdf7195f24c5dcc30f58e4b9c4f854c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="DICHVUVN.SHOP" width="100">
