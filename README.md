@@ -36,7 +36,5 @@ YOU CAN HELP ME BY DONATING
 ![Quangqq](https://github-readme-stats.vercel.app/api?username=Quangqq&show_icons=true&theme=tokyonight)
 ## 📚 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quangqq&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Quangqq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=Quangqq&color=blue)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Quangqq&theme=onedark)]
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Quangqq&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
