@@ -33,4 +33,4 @@ YOU CAN HELP ME BY DONATING
 - [<img src="https://i.imgur.com/UIeI2Bl.png" alt="Click Me" width="80">](https://quangapi.com/donate/ "Click Me")
 
 ## 📊 GitHub Stats
-![Quangqq](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Quangqq](https://github-readme-stats.vercel.app/api?username=Quangqq&show_icons=true&theme=tokyonight)
