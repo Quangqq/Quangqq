@@ -1,4 +1,8 @@
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Hi there">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+QuangAPI;I+love+Automation+and+Tools+development)](https://git.io/typing-svg)
+
+---
 # 💫 Profile
 - [<img src="https://sharegiare.xyz/images/facebook.gif" alt="Facebook" width="30">](https://www.facebook.com/share/161XVKM6Ng/ "Facebook")
 - [<img src="https://sharegiare.xyz/images/tiktok.gif" alt="TikTok" width="30">](https://www.tiktok.com/@quangapine "TikTok")  
