@@ -35,7 +35,7 @@ ICE TOOL
 
 ## 💰 DONATE
 YOU CAN HELP ME BY DONATING
-- [<img src="https://i.imgur.com/UIeI2Bl.png" alt="Click Me" width="80">](https://quangapi.com/donate/ "Click Me")
+- [<img src="https://i.imgur.com/UIeI2Bl.png" alt="Click Me" width="80">](https://quangqq.github.io/donate/ "Click Me")
 
 ## 📊 GitHub Stats
 ![Quangqq](https://github-readme-stats.vercel.app/api?username=Quangqq&show_icons=true&theme=tokyonight)
